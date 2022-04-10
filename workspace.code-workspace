@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../nimengine"
+		},
+    {
+      "path": "C:\\nim"
+    }
+	],
+	"settings": {}
+}

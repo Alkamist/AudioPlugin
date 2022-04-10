@@ -136,7 +136,7 @@ type
     numParams*: int32
     numInputs*: int32
     numOutputs*: int32
-    flags*: VstAEffectFlags
+    flags*: int32
     initialDelay*: int32
     `object`*: pointer
     uniqueID*: int32
